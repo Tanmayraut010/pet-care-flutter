@@ -2,6 +2,12 @@
 
 A Flutter application for pet care services featuring day care, night stay, and customer management.
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/app_screenshot.jpg" alt="Day Care Screen" width="300"/>
+</p>
+
 ## Features
 
 - Day Care service management
@@ -56,5 +62,17 @@ lib/
 - Tab navigation
 - Responsive layout
 
+## Design Details
 
+- **Color Scheme**: Yellow accent (#FFC727) with white background
+- **Typography**: Clean and readable text hierarchy
+- **Components**: Reusable widgets for maintainability
+- **Layout**: Responsive design with proper spacing
 
+## Code Quality
+
+- Clean and maintainable code structure
+- Separated concerns with custom widgets
+- No code duplication
+- Proper state management
+- Flutter best practices followed

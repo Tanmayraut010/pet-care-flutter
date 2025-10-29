@@ -56,7 +56,5 @@ lib/
 - Tab navigation
 - Responsive layout
 
-## Note
 
-Replace the placeholder image in `assets/images/` with your preferred header image for the app bar.
 

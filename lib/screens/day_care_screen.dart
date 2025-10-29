@@ -63,7 +63,7 @@ class _DayCareScreenState extends State<DayCareScreen> {
             height: 240,
             decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('assets/images/pet_care_header.jpg'),
+                image: AssetImage('assets/images/day_care_image.jpg'),
                 fit: BoxFit.cover,
                 onError: (exception, stackTrace) {},
               ),
